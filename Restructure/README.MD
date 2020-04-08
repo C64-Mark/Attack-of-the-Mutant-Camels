@@ -11,3 +11,4 @@ This is a restructure of the original, keeping the gameplay exactly the same as 
 * Joystick switched to port 2
 * Pause is now just F1, no need to press Commodore key alongside this
 * Some code simplification
+* Some overlapping routines rationalised into single routines
