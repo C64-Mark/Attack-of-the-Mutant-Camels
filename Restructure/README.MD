@@ -12,5 +12,6 @@ This is a restructure of the original, keeping the gameplay exactly the same as 
 * Pause is now just F1, no need to press Commodore key alongside this
 * Some code simplification
 * Some overlapping routines rationalised into single routines
-* Gameflow added  
+* Gameflow implemented  
 
+Code tweaks have led to the overall game running slightly faster, so the various in-game timers should probably be tweaked to bring the speed more in line with the original
