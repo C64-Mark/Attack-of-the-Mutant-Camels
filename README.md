@@ -1,4 +1,4 @@
-# Attack-of-the-Mutant-Camels
+# Attack of the Mutant Camels
 Reverse engineer of C64 Jeff Minter classic Attack of the Mutant Camels  
 
 This repository contains two versions:  
